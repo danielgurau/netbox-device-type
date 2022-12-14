@@ -43,11 +43,8 @@ interfaces:
     type: 10gbase-x-sfpp
     mgmt_only: false
   - name: 0/0/8
-    type: 10gbase-x-sfpp
-    mgmt_only: false
-  - name: 0/0/9
     type: 40gbase-x-qsfpp
     mgmt_only: false
-  - name: 0/0/10
+  - name: 0/0/9
     type: 40gbase-x-qsfpp
     mgmt_only: false

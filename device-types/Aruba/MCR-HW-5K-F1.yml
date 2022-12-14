@@ -24,6 +24,3 @@ interfaces:
   - name: 0/0/1
     type: 10gbase-x-sfpp
     mgmt_only: false
-  - name: 0/0/2
-    type: 10gbase-x-sfpp
-    mgmt_only: false

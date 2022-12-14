@@ -40,6 +40,3 @@ interfaces:
   - name: 0/0/7
     type: 1000base-t
     mgmt_only: false
-  - name: 0/0/8
-    type: 1000base-t
-    mgmt_only: false
