@@ -1,0 +1,58 @@
+manufacturer: Aruba
+model: 8360-12C v2
+slug: 8360-12c-v2
+part_number: JL708C
+u_height: '1'
+is_full_depth: false
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+  - name: PS2
+    type: iec-60320-c14
+console-ports:
+  - name: rj45-console
+    type: rj-45
+  - name: usb-console
+    type: usb-c
+  - name: usb-ble
+    type: usb-a
+interfaces:
+  - name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  - name: 1/1/1
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: 1/1/2
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: 1/1/3
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: 1/1/4
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: 1/1/5
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: 1/1/6
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: 1/1/7
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: 1/1/8
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: 1/1/9
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: 1/1/10
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: 1/1/11
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: 1/1/12
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
