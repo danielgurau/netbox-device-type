@@ -1,0 +1,47 @@
+manufacturer: Aruba
+model: 7030 US
+slug: 7030-us
+part_number: JW687A
+u_height: '1'
+is_full_depth: true
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+  - name: PS2
+    type: iec-60320-c14
+console-ports:
+  - name: rj45-console
+    type: rj-45
+  - name: usb-console
+    type: usb-c
+interfaces:
+  - name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  - name: 0/0/0
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: 0/0/1
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: 0/0/2
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: 0/0/3
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: 0/0/4
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: 0/0/5
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: 0/0/6
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: 0/0/7
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: 0/0/8
+    type: 10gbase-x-sfpp
+    mgmt_only: false

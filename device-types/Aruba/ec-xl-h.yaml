@@ -1,0 +1,51 @@
+---
+manufacturer: Aruba
+model: EC-XL-H
+slug: ec-xl-h
+part_number: JZ881A
+u_height: 1
+is_full_depth: true
+airflow: front-to-rear
+console-ports:
+  - name: console
+    type: de-9
+    label: console
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 440
+    label: PS1
+  - name: PS2
+    type: iec-60320-c14
+    maximum_draw: 440
+    label: PS2
+interfaces:
+  - name: port0
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+    label: port0
+  - name: port1
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+    label: port1
+  - name: port2
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+    label: port2
+  - name: port3
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+    label: port3
+  - name: port4
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+    label: port4
+  - name: port5
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+    label: port5
+  - name: port6
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+    label: port6
+  

@@ -1,0 +1,35 @@
+manufacturer: Aruba
+model: 9240 RW
+slug: 9240-rw
+part_number: R7H97A
+u_height: '1'
+is_full_depth: true
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+  - name: PS2
+    type: iec-60320-c14
+console-ports:
+  - name: rj45-console
+    type: rj-45
+  - name: usb-console
+    type: usb-c
+interfaces:
+  - name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  - name: 0/0/0
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: 0/0/1
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: 0/0/2
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: 0/0/3
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: 0/0/4
+    type: 25gbase-x-sfp28
+    mgmt_only: false

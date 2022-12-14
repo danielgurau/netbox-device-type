@@ -1,0 +1,77 @@
+manufacturer: Aruba
+model: 7010 US
+slug: 7010-us
+part_number: JW679A
+u_height: '1'
+is_full_depth: true
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+  - name: PS2
+    type: iec-60320-c14
+console-ports:
+  - name: rj45-console
+    type: rj-45
+  - name: usb-console
+    type: usb-c
+interfaces:
+  - name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  - name: 0/0/0
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/1
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/2
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/3
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/4
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/5
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/6
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/7
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/8
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/9
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/10
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/11
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/12
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/13
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/14
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/15
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/16
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/17
+    type: 1000base-x-sfp
+    mgmt_only: false
+  - name: 0/0/18
+    type: 1000base-x-sfp
+    mgmt_only: false

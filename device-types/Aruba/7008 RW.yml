@@ -1,0 +1,45 @@
+manufacturer: Aruba
+model: 7008 RW
+slug: 7008-rw
+part_number: JX927A
+u_height: '1'
+is_full_depth: true
+power-ports:
+  - name: PS1
+    type: dc-terminal
+console-ports:
+  - name: rj45-console
+    type: rj-45
+  - name: usb-console
+    type: usb-c
+interfaces:
+  - name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  - name: 0/0/0
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/1
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/2
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/3
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/4
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/5
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/6
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/7
+    type: 1000base-t
+    mgmt_only: false
+  - name: 0/0/8
+    type: 1000base-t
+    mgmt_only: false
