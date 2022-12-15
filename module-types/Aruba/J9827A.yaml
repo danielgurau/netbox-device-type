@@ -1,0 +1,15 @@
+---
+manufacturer: Aruba
+model: 5400Rzl2 Management Module 
+part_number: J9827A
+console-ports:
+  - name: Auxiliary Port
+    type: usb-a
+  - name: rj45-console
+    type: rj-45
+  - name: usb-console
+    type: usb-micro-b
+interfaces:
+  - name: mgmt
+    type: 1000base-t
+    mgmt_only: true

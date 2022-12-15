@@ -1,0 +1,29 @@
+---
+manufacturer: Aruba
+model: 5400Rzl2 8p 1/2.5/5/10GBASE-T PoE+ MACsec v3 zl2 Module
+part_number: J9995A
+interfaces:
+  - name: '{module}1'
+    type: 10gbase-t
+    mgmt_only: false
+  - name: '{module}2'
+    type: 10gbase-t
+    mgmt_only: false
+  - name: '{module}3'
+    type: 10gbase-t
+    mgmt_only: false
+  - name: '{module}4'
+    type: 10gbase-t
+    mgmt_only: false
+  - name: '{module}5'
+    type: 10gbase-t
+    mgmt_only: false
+  - name: '{module}6'
+    type: 10gbase-t
+    mgmt_only: false
+  - name: '{module}7'
+    type: 10gbase-t
+    mgmt_only: false
+  - name: '{module}8'
+    type: 10gbase-t
+    mgmt_only: false

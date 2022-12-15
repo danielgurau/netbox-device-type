@@ -1,13 +1,9 @@
 manufacturer: Aruba
-model: 2930M 40G 8SR PoE+
-slug: 2930m-40g-8sr-poep
-part_number: JL323A
+model: 6300M 48G 4SFP56
+slug: 6300m-48g-4sfp56
+part_number: JL663A
 u_height: '1'
 is_full_depth: true
-subdevice_role: parent
-module-bays:
-  - name: A
-    position: A
 power-ports:
   - name: PS1
     type: iec-60320-c14
@@ -167,14 +163,14 @@ interfaces:
     type: 1000base-t
     mgmt_only: false
   - name: 1/1/49
-    type: 1000base-x-sfp
+    type: 50gbase-x-sfp56
     mgmt_only: false
   - name: 1/1/50
-    type: 1000base-x-sfp
+    type: 50gbase-x-sfp56
     mgmt_only: false
   - name: 1/1/51
-    type: 1000base-x-sfp
+    type: 50gbase-x-sfp56
     mgmt_only: false
   - name: 1/1/52
-    type: 1000base-x-sfp
+    type: 50gbase-x-sfp56
     mgmt_only: false

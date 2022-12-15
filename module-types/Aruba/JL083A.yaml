@@ -1,0 +1,17 @@
+---
+manufacturer: Aruba
+model: 3810M/2930M 4SFP+ MACsec Module
+part_number: JL083A
+interfaces:
+  - name: '{module}1'
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: '{module}2'
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: '{module}3'
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: '{module}4'
+    type: 10gbase-x-sfpp
+    mgmt_only: false

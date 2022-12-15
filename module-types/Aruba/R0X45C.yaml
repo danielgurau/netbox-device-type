@@ -1,0 +1,41 @@
+---
+manufacturer: Aruba
+model: 6400 12p 40/100GbE QSFP28 v2 Module
+part_number: R0X45C
+interfaces:
+  - name: '{module}/1'
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: '{module}/2'
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: '{module}/3'
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: '{module}/4'
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: '{module}/5'
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: '{module}/6'
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: '{module}/7'
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: '{module}/8'
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: '{module}/9'
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: '{module}/10'
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: '{module}/11'
+    type: 100gbase-x-qsfp28
+    mgmt_only: false
+  - name: '{module}/12'
+    type: 100gbase-x-qsfp28
+    mgmt_only: false

@@ -1,0 +1,29 @@
+---
+manufacturer: Aruba
+model: 5400Rzl2 8p 1G/10GbE SFP+ MACsec v3 zl2 Module
+part_number: J9993A
+interfaces:
+  - name: '{module}1'
+    type: 1000base-x-sfpp
+    mgmt_only: false
+  - name: '{module}2'
+    type: 1000base-x-sfpp
+    mgmt_only: false
+  - name: '{module}3'
+    type: 1000base-x-sfpp
+    mgmt_only: false
+  - name: '{module}4'
+    type: 1000base-x-sfpp
+    mgmt_only: false
+  - name: '{module}5'
+    type: 1000base-x-sfpp
+    mgmt_only: false
+  - name: '{module}6'
+    type: 1000base-x-sfpp
+    mgmt_only: false
+  - name: '{module}7'
+    type: 1000base-x-sfpp
+    mgmt_only: false
+  - name: '{module}8'
+    type: 1000base-x-sfpp
+    mgmt_only: false

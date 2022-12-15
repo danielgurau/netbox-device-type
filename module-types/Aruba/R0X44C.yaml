@@ -1,0 +1,150 @@
+---
+manufacturer: Aruba
+model: 6400 48p 1G/10G/25GbE SFP28 v2 Module
+part_number: R0X44C
+interfaces:
+  - name: '{module}/1'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/2'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/3'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/4'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/5'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/6'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/7'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/8'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/9'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/10'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/11'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/12'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/13'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/14'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/15'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/16'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/17'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/18'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/19'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/20'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/21'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/22'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/23'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/24'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/25'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/26'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/27'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/28'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/29'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/30'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/31'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/32'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/33'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/34'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/35'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/36'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/37'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/38'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/39'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/40'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/41'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/42'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/43'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/44'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/45'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/46'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/47'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: '{module}/48'
+    type: 25gbase-x-sfp28
+    mgmt_only: false  
+      

@@ -1,0 +1,42 @@
+---
+manufacturer: Aruba
+model: 6410 v2
+slug: 6410v2
+part_number: R0X27C
+u_height: 12
+is_full_depth: false
+subdevice_role: parent
+module-bays:
+  - name: 1
+    position: 1
+  - name: 2
+    position: 2
+  - name: 3
+    position: 3
+  - name: 4
+    position: 4
+  - name: 5
+    position: 5
+  - name: 6
+    position: 6
+  - name: 7
+    position: 7
+  - name: 8
+    position: 8
+  - name: 9
+    position: 9
+  - name: 10
+    position: 10
+  - name: 11
+    position: 11
+  - name: 12
+    position: 12
+  - name: PS1
+    position: PS1
+  - name: PS2
+    position: PS2
+  - name: PS3
+    position: PS3
+  - name: PS4
+    position: PS4
+

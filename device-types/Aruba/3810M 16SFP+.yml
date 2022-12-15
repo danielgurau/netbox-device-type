@@ -4,6 +4,12 @@ slug: 3810m-16sfpp
 part_number: JL075A
 u_height: '1'
 is_full_depth: true
+subdevice_role: parent
+module-bays:
+  - name: A
+    position: A
+  - name: B
+    position: B    
 power-ports:
   - name: PS1
     type: iec-60320-c14

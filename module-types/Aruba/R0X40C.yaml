@@ -1,176 +1,162 @@
+---
 manufacturer: Aruba
-model: 63000M 48G 4SFP56
-slug: 63000m-48g-4sfp56
-part_number: JL663A
-u_height: '1'
-is_full_depth: true
-power-ports:
-  - name: PS1
-    type: iec-60320-c14
-  - name: PS2
-    type: iec-60320-c14
-console-ports:
-  - name: rj45-console
-    type: rj-45
-  - name: usb-console
-    type: usb-c
+model: 6400 48p 1GbE Class 6 PoE and 4p SFP56 v2 Module
+part_number: R0X40C
 interfaces:
-  - name: mgmt
-    type: 1000base-t
-    mgmt_only: true
-  - name: 1/1/1
+  - name: '{module}/1'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/2
+  - name: '{module}/2'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/3
+  - name: '{module}/3'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/4
+  - name: '{module}/4'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/5
+  - name: '{module}/5'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/6
+  - name: '{module}/6'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/7
+  - name: '{module}/7'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/8
+  - name: '{module}/8'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/9
+  - name: '{module}/9'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/10
+  - name: '{module}/10'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/11
+  - name: '{module}/11'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/12
+  - name: '{module}/12'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/13
+  - name: '{module}/13'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/14
+  - name: '{module}/14'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/15
+  - name: '{module}/15'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/16
+  - name: '{module}/16'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/17
+  - name: '{module}/17'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/18
+  - name: '{module}/18'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/19
+  - name: '{module}/19'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/20
+  - name: '{module}/20'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/21
+  - name: '{module}/21'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/22
+  - name: '{module}/22'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/23
+  - name: '{module}/23'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/24
+  - name: '{module}/24'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/25
+  - name: '{module}/25'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/26
+  - name: '{module}/26'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/27
+  - name: '{module}/27'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/28
+  - name: '{module}/28'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/29
+  - name: '{module}/29'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/30
+  - name: '{module}/30'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/31
+  - name: '{module}/31'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/32
+  - name: '{module}/32'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/33
+  - name: '{module}/33'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/34
+  - name: '{module}/34'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/35
+  - name: '{module}/35'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/36
+  - name: '{module}/36'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/37
+  - name: '{module}/37'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/38
+  - name: '{module}/38'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/39
+  - name: '{module}/39'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/40
+  - name: '{module}/40'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/41
+  - name: '{module}/41'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/42
+  - name: '{module}/42'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/43
+  - name: '{module}/43'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/44
+  - name: '{module}/44'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/45
+  - name: '{module}/45'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/46
+  - name: '{module}/46'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/47
+  - name: '{module}/47'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/48
+  - name: '{module}/48'
     type: 1000base-t
     mgmt_only: false
-  - name: 1/1/49
+  - name: '{module}/49'
     type: 50gbase-x-sfp56
     mgmt_only: false
-  - name: 1/1/50
+  - name: '{module}/50'
     type: 50gbase-x-sfp56
     mgmt_only: false
-  - name: 1/1/51
+  - name: '{module}/51'
     type: 50gbase-x-sfp56
     mgmt_only: false
-  - name: 1/1/52
+  - name: '{module}/52'
     type: 50gbase-x-sfp56
-    mgmt_only: false
+    mgmt_only: false    
+      

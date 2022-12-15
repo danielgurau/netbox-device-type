@@ -1,0 +1,11 @@
+---
+manufacturer: Aruba
+model: 5400Rzl2 2p 40GbE QSFP+ v3 zl2 Module
+part_number: J9996A
+interfaces:
+  - name: '{module}1'
+    type: 40gbase-x-qsfpp
+    mgmt_only: false
+  - name: '{module}2'
+    type: 40gbase-x-qsfpp
+    mgmt_only: false
