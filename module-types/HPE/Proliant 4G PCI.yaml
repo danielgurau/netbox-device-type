@@ -1,0 +1,15 @@
+---
+manufacturer: HPE
+model: Proliant 4G PCI Module
+part_number: 
+interfaces:
+  - name: 'C{module}/P1'
+    type: 1000base-t
+    mgmt_only: false
+  - name: 'C{module}/P2'
+    type: 1000base-t
+  - name: 'C{module}/P3'
+    type: 1000base-t
+    mgmt_only: false
+  - name: 'C{module}/P4'
+    type: 1000base-t

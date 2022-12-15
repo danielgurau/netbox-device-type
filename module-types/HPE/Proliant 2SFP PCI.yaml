@@ -1,0 +1,10 @@
+---
+manufacturer: HPE
+model: Proliant 2p SFP PCI Module
+part_number: 
+interfaces:
+  - name: 'C{module}/P1'
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: 'C{module}/P2'
+    type: 10gbase-x-sfpp

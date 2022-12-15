@@ -1,0 +1,15 @@
+---
+manufacturer: Aruba
+model: 6400 Management Module 
+part_number: R0X31A
+console-ports:
+  - name: Auxiliary Port
+    type: usb-a
+  - name: rj45-console
+    type: rj-45
+  - name: usb-console
+    type: usb-micro-b
+interfaces:
+  - name: mgmt
+    type: 1000base-t
+    mgmt_only: true
