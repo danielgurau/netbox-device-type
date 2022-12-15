@@ -1,7 +1,7 @@
 manufacturer: Aruba
-model: 8360-16Y2C v2
-slug: 8360-16y2c-v2
-part_number: JL702C
+model: 8360-16Y2C
+slug: 8360-16y2c
+part_number: JL702A
 u_height: '1'
 is_full_depth: true
 power-ports:

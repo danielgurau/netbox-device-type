@@ -1,7 +1,7 @@
 manufacturer: Aruba
-model: 8360-32Y4C v2
-slug: 8360-32y4c-v2
-part_number: JL700C
+model: 8360-32Y4C
+slug: 8360-32y4c
+part_number: JL700A
 u_height: '1'
 is_full_depth: false
 power-ports:
