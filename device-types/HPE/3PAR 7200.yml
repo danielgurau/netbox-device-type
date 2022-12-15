@@ -1,0 +1,50 @@
+---
+manufacturer: HPE
+model: 3PAR 7200
+slug: 3par-7200
+u_height: 2
+is_full_depth: true
+interfaces:
+  - name: N0-2-1
+    type: 1000base-t
+    mgmt_only: false
+  - name: N0-2-2
+    type: 1000base-t
+    mgmt_only: false
+  - name: N0-2-3
+    type: 1000base-t
+    mgmt_only: false
+  - name: N0-2-4
+    type: 1000base-t
+    mgmt_only: false
+  - name: N1-2-1
+    type: 1000base-t
+    mgmt_only: false
+  - name: N1-2-2
+    type: 1000base-t
+    mgmt_only: false
+  - name: N1-2-3
+    type: 1000base-t
+    mgmt_only: false
+  - name: N1-2-4
+    type: 1000base-t
+    mgmt_only: false
+  - name: N0-mgmt
+    type: 1000base-t
+    mgmt_only: true
+  - name: N1-mgmt
+    type: 1000base-t
+    mgmt_only: true
+  - name: N0-1-1 fc2a
+    type: 8gfc-sfpp
+  - name: N0-1-2 fc2b
+    type: 8gfc-sfpp
+  - name: N1-1-1
+    type: 8gfc-sfpp
+  - name: N1-1-2
+    type: 8gfc-sfpp
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+  - name: PSU2
+    type: iec-60320-c14
