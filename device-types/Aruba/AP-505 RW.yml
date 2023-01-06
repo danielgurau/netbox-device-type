@@ -1,0 +1,16 @@
+manufacturer: Aruba
+model: AP-505 RW
+slug: ap-505-rw
+part_number: R2H28A
+u_height: '0'
+is_full_depth: false
+console-ports:
+  - name: rj45-console
+    type: rj-45
+interfaces:
+  - name: Port 1
+    type: 1000base-t
+    mgmt_only: false
+  - name: Wi-Fi 1
+    type: ieee802.11ax
+    mgmt_only: false
